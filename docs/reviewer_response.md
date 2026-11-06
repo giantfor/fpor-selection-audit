@@ -22,7 +22,7 @@ Ditambahkan **216 populasi**: n=64/128/256; k=log2(n), n/8, n/4; reputasi contin
 
 ## MAJOR 6 — Reproducibility publik
 
-Paket publik berisi kode, dependency, konfigurasi solver, seed, oracle, score arrays, traces, hasil CSV/JSON, dan checksum. Pengunggahan hanya mencakup artefak penelitian: tidak menyertakan PDF publisher, attachment review pribadi, atau kredensial. URL repository dan commit yang sudah diverifikasi akan dicantumkan pada Data and Code Availability. Status unggah akhir dicatat di `publication.json`.
+Paket publik berisi kode, dependency, konfigurasi solver, seed, oracle, score arrays, traces, hasil CSV/JSON, dan checksum. Pengunggahan hanya mencakup artefak penelitian: tidak menyertakan PDF publisher, attachment review pribadi, atau kredensial. Repository publik sudah tersedia di https://github.com/giantfor/fpor-selection-audit dan commit tetap dicantumkan dalam Data and Code Availability. Akses tanpa login, replay, dan regenerasi eksperimen dari clone baru berhasil diverifikasi; enam output utama cocok dengan checksum rilis.
 
 ## Pemeriksaan
 
