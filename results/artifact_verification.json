@@ -1,0 +1,6 @@
+{
+  "checked_successful_transitions": 3335,
+  "static_rows_checked": 60,
+  "result": "passed",
+  "scope": "Arithmetic validation; no independent proof of general MILP infeasibility."
+}

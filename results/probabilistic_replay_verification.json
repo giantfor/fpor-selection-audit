@@ -1,0 +1,6 @@
+{
+  "replayed_trajectories": 4000,
+  "checked_transitions": 53400,
+  "checked_failures": 1400,
+  "result": "passed"
+}

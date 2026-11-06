@@ -1,0 +1,18 @@
+{
+  "python": "3.11.5",
+  "numpy": "1.26.4",
+  "scipy": "1.16.2",
+  "static_configs": 60,
+  "dynamic_runs": 200,
+  "max_rounds": 20,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "unresolved": 0,
+  "checks": "all passed",
+  "sampler": "MILP with seeded normal random objective: stress witnesses, not uniform sampling"
+}

@@ -1,0 +1,22 @@
+{
+  "model": "single-height quorum certificates, no PBFT view changes",
+  "k": 4,
+  "quorum": 3,
+  "malicious": [
+    0,
+    1
+  ],
+  "value_A_signers": [
+    0,
+    1,
+    2
+  ],
+  "value_B_signers": [
+    0,
+    1,
+    3
+  ],
+  "honest_equivocations": 0,
+  "withholding_available_votes": 2,
+  "within_bound_note": "With <=1 faulty replica every pair of 3-vote certificates shares an honest signer."
+}

@@ -1,0 +1,27 @@
+{
+  "config": {
+    "trajectory_replicates": 200,
+    "horizon": 20,
+    "proposal_cap": 4096,
+    "sensitivity_populations": 8,
+    "sensitivity_samples": 500,
+    "n": [
+      16,
+      32,
+      64,
+      128,
+      256
+    ],
+    "master_seed": 20261106
+  },
+  "trajectories": 4000,
+  "sensitivity_populations": 216,
+  "sensitivity_rows": 1296,
+  "sensitivity_unresolved": 0,
+  "trajectory_sampling_censored": 0,
+  "checks": "sampler oracle and transition inequalities passed",
+  "counters": {
+    "exact_group_fallbacks": 149
+  },
+  "scope": "Conditional uniform audit sampler; not calibrated to FPoR implementation"
+}
