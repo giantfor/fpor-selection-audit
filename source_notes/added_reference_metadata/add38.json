@@ -1,0 +1,42 @@
+{
+  "id": 38,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Implementing fault-tolerant services using the state machine approach: a tutorial"
+    ],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          1990,
+          12
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1990,
+          12
+        ]
+      ]
+    },
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "publisher": "Association for Computing Machinery (ACM)",
+    "DOI": "10.1145/98163.98167",
+    "URL": "https://doi.org/10.1145/98163.98167",
+    "page": "299-319",
+    "volume": "22",
+    "issue": "4",
+    "author": [
+      {
+        "family": "Schneider",
+        "given": "Fred B."
+      }
+    ]
+  }
+}

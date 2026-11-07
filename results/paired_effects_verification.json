@@ -1,0 +1,9 @@
+{
+  "pairs": 3240,
+  "configurations": 81,
+  "populations_per_configuration": 40,
+  "estimand": "mean population-paired high-minus-random composition exposure",
+  "interval": "pointwise approximate Student t, df=39; not simultaneous",
+  "includes": "population variability, finite committee sampling and one random adversarial set per population",
+  "excludes": "operational attack success and recovery-policy causal effects"
+}

@@ -1,0 +1,53 @@
+{
+  "id": 43,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "RandRunner: Distributed Randomness from Trapdoor VDFs with Strong Uniqueness"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings 2021 Network and Distributed System Security Symposium"
+    ],
+    "publisher": "Internet Society",
+    "DOI": "10.14722/ndss.2021.24116",
+    "URL": "https://doi.org/10.14722/ndss.2021.24116",
+    "author": [
+      {
+        "family": "Schindler",
+        "given": "Philipp"
+      },
+      {
+        "family": "Judmayer",
+        "given": "Aljosha"
+      },
+      {
+        "family": "Hittmeir",
+        "given": "Markus"
+      },
+      {
+        "family": "Stifter",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Weippl",
+        "given": "Edgar"
+      }
+    ]
+  }
+}

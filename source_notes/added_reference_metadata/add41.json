@@ -1,0 +1,68 @@
+{
+  "id": 41,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Scalable Bias-Resistant Distributed Randomness"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          5
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          5
+        ]
+      ]
+    },
+    "container-title": [
+      "2017 IEEE Symposium on Security and Privacy (SP)"
+    ],
+    "publisher": "IEEE",
+    "DOI": "10.1109/sp.2017.45",
+    "URL": "https://doi.org/10.1109/sp.2017.45",
+    "page": "444-460",
+    "author": [
+      {
+        "family": "Syta",
+        "given": "Ewa"
+      },
+      {
+        "family": "Jovanovic",
+        "given": "Philipp"
+      },
+      {
+        "family": "Kogias",
+        "given": "Eleftherios Kokoris"
+      },
+      {
+        "family": "Gailly",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Gasser",
+        "given": "Linus"
+      },
+      {
+        "family": "Khoffi",
+        "given": "Ismail"
+      },
+      {
+        "family": "Fischer",
+        "given": "Michael J."
+      },
+      {
+        "family": "Ford",
+        "given": "Bryan"
+      }
+    ]
+  }
+}

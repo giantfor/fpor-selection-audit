@@ -1,0 +1,46 @@
+{
+  "id": 76,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "The Eigentrust algorithm for reputation management in P2P networks"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the twelfth international conference on World Wide Web  - WWW '03"
+    ],
+    "publisher": "ACM Press",
+    "DOI": "10.1145/775152.775242",
+    "URL": "https://doi.org/10.1145/775152.775242",
+    "page": "640",
+    "author": [
+      {
+        "family": "Kamvar",
+        "given": "Sepandar D."
+      },
+      {
+        "family": "Schlosser",
+        "given": "Mario T."
+      },
+      {
+        "family": "Garcia-Molina",
+        "given": "Hector"
+      }
+    ]
+  }
+}

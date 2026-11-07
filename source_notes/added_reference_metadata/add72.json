@@ -1,0 +1,52 @@
+{
+  "id": 72,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Interval Estimation for a Binomial Proportion"
+    ],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          5,
+          1
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          5,
+          1
+        ]
+      ]
+    },
+    "container-title": [
+      "Statistical Science"
+    ],
+    "publisher": "Institute of Mathematical Statistics",
+    "DOI": "10.1214/ss/1009213286",
+    "URL": "https://doi.org/10.1214/ss/1009213286",
+    "page": "101-133",
+    "volume": "16",
+    "issue": "2",
+    "author": [
+      {
+        "family": "Brown",
+        "given": "Lawrence D."
+      },
+      {
+        "family": "Cai",
+        "given": "T. Tony"
+      },
+      {
+        "family": "DasGupta",
+        "given": "Anirban"
+      }
+    ]
+  }
+}

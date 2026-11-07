@@ -1,0 +1,57 @@
+{
+  "id": 54,
+  "match_score": 1,
+  "verification": "Exact DOI resolved; title/author/version checked against primary source",
+  "metadata": {
+    "title": [
+      "Narwhal and Tusk"
+    ],
+    "subtitle": [
+      "a DAG-based mempool and efficient BFT consensus"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          28
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          28
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the Seventeenth European Conference on Computer Systems"
+    ],
+    "publisher": "ACM",
+    "DOI": "10.1145/3492321.3519594",
+    "URL": "https://doi.org/10.1145/3492321.3519594",
+    "page": "34-50",
+    "author": [
+      {
+        "family": "Danezis",
+        "given": "George"
+      },
+      {
+        "family": "Kokoris-Kogias",
+        "given": "Lefteris"
+      },
+      {
+        "family": "Sonnino",
+        "given": "Alberto"
+      },
+      {
+        "family": "Spiegelman",
+        "given": "Alexander"
+      }
+    ]
+  }
+}

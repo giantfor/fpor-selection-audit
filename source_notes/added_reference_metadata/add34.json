@@ -1,0 +1,51 @@
+{
+  "id": 34,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "The Byzantine Generals Problem"
+    ],
+    "subtitle": [],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          1982,
+          7
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1982,
+          7
+        ]
+      ]
+    },
+    "container-title": [
+      "ACM Transactions on Programming Languages and Systems"
+    ],
+    "publisher": "Association for Computing Machinery (ACM)",
+    "DOI": "10.1145/357172.357176",
+    "URL": "https://doi.org/10.1145/357172.357176",
+    "page": "382-401",
+    "volume": "4",
+    "issue": "3",
+    "author": [
+      {
+        "family": "Lamport",
+        "given": "Leslie"
+      },
+      {
+        "family": "Shostak",
+        "given": "Robert"
+      },
+      {
+        "family": "Pease",
+        "given": "Marshall"
+      }
+    ]
+  }
+}

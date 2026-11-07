@@ -1,0 +1,51 @@
+{
+  "id": 63,
+  "match_score": 1,
+  "verification": "Primary published title retained; initial informal search title corrected",
+  "metadata": {
+    "title": [
+      "Order-Fairness for Byzantine Consensus"
+    ],
+    "type": "book-chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "Advances in Cryptology – CRYPTO 2020"
+    ],
+    "publisher": "Springer International Publishing",
+    "DOI": "10.1007/978-3-030-56877-1_16",
+    "URL": "https://doi.org/10.1007/978-3-030-56877-1_16",
+    "page": "451-480",
+    "author": [
+      {
+        "family": "Kelkar",
+        "given": "Mahimna"
+      },
+      {
+        "family": "Zhang",
+        "given": "Fan"
+      },
+      {
+        "family": "Goldfeder",
+        "given": "Steven"
+      },
+      {
+        "family": "Juels",
+        "given": "Ari"
+      }
+    ]
+  }
+}

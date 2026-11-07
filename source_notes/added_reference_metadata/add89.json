@@ -1,0 +1,66 @@
+{
+  "id": 89,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Verdi: a framework for implementing and formally verifying distributed systems"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          6,
+          3
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          6,
+          3
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 36th ACM SIGPLAN Conference on Programming Language Design and Implementation"
+    ],
+    "publisher": "ACM",
+    "DOI": "10.1145/2737924.2737958",
+    "URL": "https://doi.org/10.1145/2737924.2737958",
+    "page": "357-368",
+    "author": [
+      {
+        "family": "Wilcox",
+        "given": "James R."
+      },
+      {
+        "family": "Woos",
+        "given": "Doug"
+      },
+      {
+        "family": "Panchekha",
+        "given": "Pavel"
+      },
+      {
+        "family": "Tatlock",
+        "given": "Zachary"
+      },
+      {
+        "family": "Wang",
+        "given": "Xi"
+      },
+      {
+        "family": "Ernst",
+        "given": "Michael D."
+      },
+      {
+        "family": "Anderson",
+        "given": "Thomas"
+      }
+    ]
+  }
+}

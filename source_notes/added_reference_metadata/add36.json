@@ -1,0 +1,43 @@
+{
+  "id": 36,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "The part-time parliament"
+    ],
+    "subtitle": [],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          5
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1998,
+          5
+        ]
+      ]
+    },
+    "container-title": [
+      "ACM Transactions on Computer Systems"
+    ],
+    "publisher": "Association for Computing Machinery (ACM)",
+    "DOI": "10.1145/279227.279229",
+    "URL": "https://doi.org/10.1145/279227.279229",
+    "page": "133-169",
+    "volume": "16",
+    "issue": "2",
+    "author": [
+      {
+        "family": "Lamport",
+        "given": "Leslie"
+      }
+    ]
+  }
+}

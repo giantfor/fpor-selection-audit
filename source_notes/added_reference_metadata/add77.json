@@ -1,0 +1,44 @@
+{
+  "id": 77,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "PeerTrust: Supporting Reputation-Based Trust for Peer-to-Peer Electronic Communities"
+    ],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          7
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2004,
+          7
+        ]
+      ]
+    },
+    "container-title": [
+      "IEEE Transactions on Knowledge and Data Engineering"
+    ],
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "DOI": "10.1109/tkde.2004.1318566",
+    "URL": "https://doi.org/10.1109/tkde.2004.1318566",
+    "page": "843-857",
+    "volume": "16",
+    "issue": "07",
+    "author": [
+      {
+        "family": "Li Xiong"
+      },
+      {
+        "family": "Ling Liu"
+      }
+    ]
+  }
+}

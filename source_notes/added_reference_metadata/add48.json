@@ -1,0 +1,47 @@
+{
+  "id": 48,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Snow White: Robustly Reconfigurable Consensus and Applications to Provably Secure Proof of Stake"
+    ],
+    "type": "book-chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "Financial Cryptography and Data Security"
+    ],
+    "publisher": "Springer International Publishing",
+    "DOI": "10.1007/978-3-030-32101-7_2",
+    "URL": "https://doi.org/10.1007/978-3-030-32101-7_2",
+    "page": "23-41",
+    "author": [
+      {
+        "family": "Daian",
+        "given": "Phil"
+      },
+      {
+        "family": "Pass",
+        "given": "Rafael"
+      },
+      {
+        "family": "Shi",
+        "given": "Elaine"
+      }
+    ]
+  }
+}

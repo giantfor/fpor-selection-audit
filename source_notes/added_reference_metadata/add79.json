@@ -1,0 +1,54 @@
+{
+  "id": 79,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Reputation systems"
+    ],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          12
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2000,
+          12
+        ]
+      ]
+    },
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "publisher": "Association for Computing Machinery (ACM)",
+    "DOI": "10.1145/355112.355122",
+    "URL": "https://doi.org/10.1145/355112.355122",
+    "page": "45-48",
+    "volume": "43",
+    "issue": "12",
+    "author": [
+      {
+        "family": "Resnick",
+        "given": "Paul"
+      },
+      {
+        "family": "Kuwabara",
+        "given": "Ko"
+      },
+      {
+        "family": "Zeckhauser",
+        "given": "Richard"
+      },
+      {
+        "family": "Friedman",
+        "given": "Eric"
+      }
+    ]
+  }
+}

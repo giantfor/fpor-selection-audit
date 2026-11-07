@@ -1,0 +1,72 @@
+{
+  "id": 60,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "SBFT: A Scalable and Decentralized Trust Infrastructure"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          6
+        ]
+      ]
+    },
+    "container-title": [
+      "2019 49th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)"
+    ],
+    "publisher": "IEEE",
+    "DOI": "10.1109/dsn.2019.00063",
+    "URL": "https://doi.org/10.1109/dsn.2019.00063",
+    "page": "568-580",
+    "author": [
+      {
+        "family": "Golan Gueta",
+        "given": "Guy"
+      },
+      {
+        "family": "Abraham",
+        "given": "Ittai"
+      },
+      {
+        "family": "Grossman",
+        "given": "Shelly"
+      },
+      {
+        "family": "Malkhi",
+        "given": "Dahlia"
+      },
+      {
+        "family": "Pinkas",
+        "given": "Benny"
+      },
+      {
+        "family": "Reiter",
+        "given": "Michael"
+      },
+      {
+        "family": "Seredinschi",
+        "given": "Dragos-Adrian"
+      },
+      {
+        "family": "Tamir",
+        "given": "Orr"
+      },
+      {
+        "family": "Tomescu",
+        "given": "Alin"
+      }
+    ]
+  }
+}

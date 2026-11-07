@@ -10,7 +10,7 @@ from extended_analysis import solve,writecsv
 
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'results'
 CONFIG={'trajectory_replicates':200,'horizon':20,'proposal_cap':4096,
-        'sensitivity_populations':8,'sensitivity_samples':500,
+        'sensitivity_populations':40,'sensitivity_samples':500,
         'n':[16,32,64,128,256],'master_seed':20261106}
 COUNTERS={'exact_group_fallbacks':0}
 

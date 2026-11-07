@@ -1,0 +1,50 @@
+{
+  "id": 66,
+  "match_score": 1.0,
+  "verification": "Publisher identity verified; C1 mojibake in Gazi surname normalized to z-caron",
+  "metadata": {
+    "title": [
+      "Fait Accompli Committee Selection: Improving the Size-Security Tradeoff of Stake-Based Committees"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          15
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          15
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security"
+    ],
+    "publisher": "ACM",
+    "DOI": "10.1145/3576915.3623194",
+    "URL": "https://doi.org/10.1145/3576915.3623194",
+    "page": "845-858",
+    "author": [
+      {
+        "family": "Gaži",
+        "given": "Peter"
+      },
+      {
+        "family": "Kiayias",
+        "given": "Aggelos"
+      },
+      {
+        "family": "Russell",
+        "given": "Alexander"
+      }
+    ]
+  }
+}

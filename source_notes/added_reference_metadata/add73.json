@@ -1,0 +1,42 @@
+{
+  "id": 73,
+  "match_score": 1,
+  "verification": "Exact DOI resolved; title/author/version checked against primary source",
+  "metadata": {
+    "title": [
+      "The Probable Error of a Mean"
+    ],
+    "subtitle": [],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          1908,
+          3
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1908,
+          3
+        ]
+      ]
+    },
+    "container-title": [
+      "Biometrika"
+    ],
+    "publisher": "JSTOR",
+    "DOI": "10.2307/2331554",
+    "URL": "https://doi.org/10.2307/2331554",
+    "page": "1",
+    "volume": "6",
+    "issue": "1",
+    "author": [
+      {
+        "family": "Student"
+      }
+    ]
+  }
+}

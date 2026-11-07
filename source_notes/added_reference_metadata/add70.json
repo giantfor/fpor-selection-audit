@@ -1,0 +1,42 @@
+{
+  "id": 70,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Probable Inference, the Law of Succession, and Statistical Inference"
+    ],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          1927,
+          6
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1927,
+          6
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "publisher": "Informa UK Limited",
+    "DOI": "10.1080/01621459.1927.10502953",
+    "URL": "https://doi.org/10.1080/01621459.1927.10502953",
+    "page": "209-212",
+    "volume": "22",
+    "issue": "158",
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "Edwin B."
+      }
+    ]
+  }
+}

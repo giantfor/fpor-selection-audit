@@ -1,0 +1,54 @@
+{
+  "id": 62,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Correctness and fairness of committee-based blockchains: A case study of Tendermint’s repeated consensus"
+    ],
+    "subtitle": [],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          9
+        ]
+      ]
+    },
+    "container-title": [
+      "Theoretical Computer Science"
+    ],
+    "publisher": "Elsevier BV",
+    "DOI": "10.1016/j.tcs.2026.116086",
+    "URL": "https://doi.org/10.1016/j.tcs.2026.116086",
+    "page": "116086",
+    "volume": "1082",
+    "author": [
+      {
+        "family": "Amoussou-Guenou",
+        "given": "Yackolley"
+      },
+      {
+        "family": "Del Pozzo",
+        "given": "Antonella"
+      },
+      {
+        "family": "Potop-Butucaru",
+        "given": "Maria"
+      },
+      {
+        "family": "Tucci-Piergiovanni",
+        "given": "Sara"
+      }
+    ]
+  }
+}

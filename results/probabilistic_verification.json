@@ -3,7 +3,7 @@
     "trajectory_replicates": 200,
     "horizon": 20,
     "proposal_cap": 4096,
-    "sensitivity_populations": 8,
+    "sensitivity_populations": 40,
     "sensitivity_samples": 500,
     "n": [
       16,
@@ -15,8 +15,8 @@
     "master_seed": 20261106
   },
   "trajectories": 4000,
-  "sensitivity_populations": 216,
-  "sensitivity_rows": 1296,
+  "sensitivity_populations": 1080,
+  "sensitivity_rows": 6480,
   "sensitivity_unresolved": 0,
   "trajectory_sampling_censored": 0,
   "checks": "sampler oracle and transition inequalities passed",

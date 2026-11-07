@@ -1,0 +1,51 @@
+{
+  "id": 65,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Quick Order Fairness"
+    ],
+    "type": "book-chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "Financial Cryptography and Data Security"
+    ],
+    "publisher": "Springer International Publishing",
+    "DOI": "10.1007/978-3-031-18283-9_15",
+    "URL": "https://doi.org/10.1007/978-3-031-18283-9_15",
+    "page": "316-333",
+    "author": [
+      {
+        "family": "Cachin",
+        "given": "Christian"
+      },
+      {
+        "family": "Mićić",
+        "given": "Jovana"
+      },
+      {
+        "family": "Steinhauer",
+        "given": "Nathalie"
+      },
+      {
+        "family": "Zanolini",
+        "given": "Luca"
+      }
+    ]
+  }
+}

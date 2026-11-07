@@ -1,0 +1,57 @@
+{
+  "id": 84,
+  "match_score": 0.36538461538461536,
+  "verification": "Exact DOI and full title including subtitle match original FPoR reference list",
+  "metadata": {
+    "title": [
+      "Proof of Reputation"
+    ],
+    "subtitle": [
+      "A Reputation-based Consensus Protocol for Blockchain Based Systems"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          7
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          7
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2019 International Electronics Communication Conference"
+    ],
+    "publisher": "ACM",
+    "DOI": "10.1145/3343147.3343169",
+    "URL": "https://doi.org/10.1145/3343147.3343169",
+    "page": "131-138",
+    "author": [
+      {
+        "family": "Zhuang",
+        "given": "Qianwei"
+      },
+      {
+        "family": "Liu",
+        "given": "Yuan"
+      },
+      {
+        "family": "Chen",
+        "given": "Lisi"
+      },
+      {
+        "family": "Ai",
+        "given": "Zhengpeng"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 59,
+  "match_score": 1,
+  "verification": "Primary Dagstuhl record and publisher BibTeX; replaces preprint search target Solidus with published Solida",
+  "metadata": {
+    "title": [
+      "Solida: A Blockchain Protocol Based on Reconfigurable Byzantine Consensus"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": [
+      "21st International Conference on Principles of Distributed Systems (OPODIS 2017)"
+    ],
+    "publisher": "Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik",
+    "DOI": "10.4230/LIPIcs.OPODIS.2017.25",
+    "URL": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.OPODIS.2017.25",
+    "page": "25:1-25:19",
+    "volume": "95",
+    "author": [
+      {
+        "family": "Abraham",
+        "given": "Ittai"
+      },
+      {
+        "family": "Malkhi",
+        "given": "Dahlia"
+      },
+      {
+        "family": "Nayak",
+        "given": "Kartik"
+      },
+      {
+        "family": "Ren",
+        "given": "Ling"
+      },
+      {
+        "family": "Spiegelman",
+        "given": "Alexander"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 80,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Review on Computational Trust and Reputation Models"
+    ],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          9
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2005,
+          9
+        ]
+      ]
+    },
+    "container-title": [
+      "Artificial Intelligence Review"
+    ],
+    "publisher": "Springer Science and Business Media LLC",
+    "DOI": "10.1007/s10462-004-0041-5",
+    "URL": "https://doi.org/10.1007/s10462-004-0041-5",
+    "page": "33-60",
+    "volume": "24",
+    "issue": "1",
+    "author": [
+      {
+        "family": "Sabater",
+        "given": "Jordi"
+      },
+      {
+        "family": "Sierra",
+        "given": "Carles"
+      }
+    ]
+  }
+}

@@ -27,5 +27,5 @@ parts=[]
 for dist in ('continuous','lognormal','evolved'):
     pair={r['placement']:r for r in rows if r['n']=='128' and r['k']=='16' and r['distribution']==dist and r['fraction_requested']=='0.25'}
     parts.append(f"{dist} scores yield mean exposure {float(pair['high']['mean_risk']):.3f} under high-weight placement and {float(pair['random']['mean_risk']):.3f} under random placement")
-(OUT/'sensitivity_findings.tex').write_text('At $n=128$, $k=16$, and requested adversarial fraction 0.25, '+ '; '.join(parts)+'. Figure~\\ref{fig:sensitivity} shows the corresponding sensitivity curves and population-level uncertainty.\n')
+(OUT/'sensitivity_findings.tex').write_text('At $n=128$, $k=16$, and requested adversarial fraction 0.25, '+ '; '.join(parts)+'. Fig.~\\ref{fig:sensitivity} shows the corresponding sensitivity curves and population-level uncertainty.\n')
 print('Generated probabilistic findings and sensitivity figure.')

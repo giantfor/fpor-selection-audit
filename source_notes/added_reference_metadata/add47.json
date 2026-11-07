@@ -1,0 +1,41 @@
+{
+  "id": 47,
+  "match_score": 1,
+  "verification": "Manually matched to primary publisher or author/institution record; no fuzzy candidate accepted",
+  "metadata": {
+    "title": [
+      "Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security"
+    ],
+    "DOI": "10.1145/3243734.3243848",
+    "URL": "https://doi.org/10.1145/3243734.3243848",
+    "page": "913-930",
+    "author": [
+      {
+        "name": "Christian Badertscher"
+      },
+      {
+        "name": "Peter Gazi"
+      },
+      {
+        "name": "Aggelos Kiayias"
+      },
+      {
+        "name": "Alexander Russell"
+      },
+      {
+        "name": "Vassilis Zikas"
+      }
+    ]
+  }
+}

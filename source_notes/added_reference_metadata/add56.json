@@ -1,0 +1,53 @@
+{
+  "id": 56,
+  "match_score": 1,
+  "verification": "Exact DOI resolved; title/author/version checked against primary source",
+  "metadata": {
+    "title": [
+      "RapidChain"
+    ],
+    "subtitle": [
+      "Scaling Blockchain via Full Sharding"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          15
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          15
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security"
+    ],
+    "publisher": "ACM",
+    "DOI": "10.1145/3243734.3243853",
+    "URL": "https://doi.org/10.1145/3243734.3243853",
+    "page": "931-948",
+    "author": [
+      {
+        "family": "Zamani",
+        "given": "Mahdi"
+      },
+      {
+        "family": "Movahedi",
+        "given": "Mahnush"
+      },
+      {
+        "family": "Raykova",
+        "given": "Mariana"
+      }
+    ]
+  }
+}

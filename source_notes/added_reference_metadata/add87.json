@@ -1,0 +1,26 @@
+{
+  "id": 87,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers"
+    ],
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "publisher": "Addison-Wesley",
+    "URL": "https://lamport.azurewebsites.net/tla/book.html",
+    "author": [
+      {
+        "family": "Lamport",
+        "given": "Leslie"
+      }
+    ]
+  }
+}

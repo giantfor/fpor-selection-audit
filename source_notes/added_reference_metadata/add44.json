@@ -1,0 +1,52 @@
+{
+  "id": 44,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "HydRand: Efficient Continuous Distributed Randomness"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "container-title": [
+      "2020 IEEE Symposium on Security and Privacy (SP)"
+    ],
+    "publisher": "IEEE",
+    "DOI": "10.1109/sp40000.2020.00003",
+    "URL": "https://doi.org/10.1109/sp40000.2020.00003",
+    "page": "73-89",
+    "author": [
+      {
+        "family": "Schindler",
+        "given": "Philipp"
+      },
+      {
+        "family": "Judmayer",
+        "given": "Aljosha"
+      },
+      {
+        "family": "Stifter",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Weippl",
+        "given": "Edgar"
+      }
+    ]
+  }
+}

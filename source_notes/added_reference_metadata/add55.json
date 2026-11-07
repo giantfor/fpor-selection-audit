@@ -1,0 +1,57 @@
+{
+  "id": 55,
+  "match_score": 1,
+  "verification": "Exact DOI resolved; title/author/version checked against primary source",
+  "metadata": {
+    "title": [
+      "Bullshark"
+    ],
+    "subtitle": [
+      "DAG BFT Protocols Made Practical"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          7
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          7
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security"
+    ],
+    "publisher": "ACM",
+    "DOI": "10.1145/3548606.3559361",
+    "URL": "https://doi.org/10.1145/3548606.3559361",
+    "page": "2705-2718",
+    "author": [
+      {
+        "family": "Spiegelman",
+        "given": "Alexander"
+      },
+      {
+        "family": "Giridharan",
+        "given": "Neil"
+      },
+      {
+        "family": "Sonnino",
+        "given": "Alberto"
+      },
+      {
+        "family": "Kokoris-Kogias",
+        "given": "Lefteris"
+      }
+    ]
+  }
+}

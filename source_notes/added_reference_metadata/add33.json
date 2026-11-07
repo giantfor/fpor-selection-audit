@@ -1,0 +1,51 @@
+{
+  "id": 33,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Impossibility of distributed consensus with one faulty process"
+    ],
+    "subtitle": [],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          1985,
+          4
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1985,
+          4
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of the ACM"
+    ],
+    "publisher": "Association for Computing Machinery (ACM)",
+    "DOI": "10.1145/3149.214121",
+    "URL": "https://doi.org/10.1145/3149.214121",
+    "page": "374-382",
+    "volume": "32",
+    "issue": "2",
+    "author": [
+      {
+        "family": "Fischer",
+        "given": "Michael J."
+      },
+      {
+        "family": "Lynch",
+        "given": "Nancy A."
+      },
+      {
+        "family": "Paterson",
+        "given": "Michael S."
+      }
+    ]
+  }
+}

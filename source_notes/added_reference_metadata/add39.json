@@ -1,0 +1,39 @@
+{
+  "id": 39,
+  "match_score": 1.0,
+  "verification": "FOCS 1999 conference identity; Crossref date missing and supplied from conference record",
+  "metadata": {
+    "title": [
+      "Verifiable random functions"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "container-title": [
+      "40th Annual Symposium on Foundations of Computer Science (Cat. No.99CB37039)"
+    ],
+    "publisher": "IEEE Comput. Soc",
+    "DOI": "10.1109/sffcs.1999.814584",
+    "URL": "https://doi.org/10.1109/sffcs.1999.814584",
+    "page": "120-130",
+    "author": [
+      {
+        "family": "Micali",
+        "given": "S."
+      },
+      {
+        "family": "Rabin",
+        "given": "M."
+      },
+      {
+        "family": "Vadhan",
+        "given": "S."
+      }
+    ]
+  }
+}

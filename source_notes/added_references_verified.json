@@ -1,0 +1,829 @@
+[
+  {
+    "key": "add33",
+    "title": "Impossibility of distributed consensus with one faulty process",
+    "authors": [
+      "Fischer, Michael J.",
+      "Lynch, Nancy A.",
+      "Paterson, Michael S."
+    ],
+    "year": 1985,
+    "doi": "10.1145/3149.214121",
+    "source": "https://api.crossref.org/works/10.1145/3149.214121",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add34",
+    "title": "The Byzantine Generals Problem",
+    "authors": [
+      "Lamport, Leslie",
+      "Shostak, Robert",
+      "Pease, Marshall"
+    ],
+    "year": 1982,
+    "doi": "10.1145/357172.357176",
+    "source": "https://api.crossref.org/works/10.1145/357172.357176",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add35",
+    "title": "Consensus in the presence of partial synchrony",
+    "authors": [
+      "Dwork, Cynthia",
+      "Lynch, Nancy",
+      "Stockmeyer, Larry"
+    ],
+    "year": 1988,
+    "doi": "10.1145/42282.42283",
+    "source": "https://api.crossref.org/works/10.1145/42282.42283",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add36",
+    "title": "The part-time parliament",
+    "authors": [
+      "Lamport, Leslie"
+    ],
+    "year": 1998,
+    "doi": "10.1145/279227.279229",
+    "source": "https://api.crossref.org/works/10.1145/279227.279229",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add37",
+    "title": "Byzantine quorum systems",
+    "authors": [
+      "Dahlia Malkhi",
+      "Michael Reiter"
+    ],
+    "year": 1998,
+    "doi": "10.1007/s004460050050",
+    "source": "https://api.crossref.org/works/10.1007/s004460050050",
+    "verification": "Manually matched to primary publisher or author/institution record; no fuzzy candidate accepted",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add38",
+    "title": "Implementing fault-tolerant services using the state machine approach: a tutorial",
+    "authors": [
+      "Schneider, Fred B."
+    ],
+    "year": 1990,
+    "doi": "10.1145/98163.98167",
+    "source": "https://api.crossref.org/works/10.1145/98163.98167",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add39",
+    "title": "Verifiable random functions",
+    "authors": [
+      "Micali, S.",
+      "Rabin, M.",
+      "Vadhan, S."
+    ],
+    "year": 1999,
+    "doi": "10.1109/sffcs.1999.814584",
+    "source": "https://api.crossref.org/works/10.1109/sffcs.1999.814584",
+    "verification": "FOCS 1999 conference identity; Crossref date missing and supplied from conference record",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add40",
+    "title": "Secure Distributed Key Generation for Discrete-Log Based Cryptosystems",
+    "authors": [
+      "Gennaro, Rosario",
+      "Jarecki, Stanisław",
+      "Krawczyk, Hugo",
+      "Rabin, Tal"
+    ],
+    "year": 1999,
+    "doi": "10.1007/3-540-48910-x_21",
+    "source": "https://api.crossref.org/works/10.1007/3-540-48910-x_21",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add41",
+    "title": "Scalable Bias-Resistant Distributed Randomness",
+    "authors": [
+      "Syta, Ewa",
+      "Jovanovic, Philipp",
+      "Kogias, Eleftherios Kokoris",
+      "Gailly, Nicolas",
+      "Gasser, Linus",
+      "Khoffi, Ismail",
+      "Fischer, Michael J.",
+      "Ford, Bryan"
+    ],
+    "year": 2017,
+    "doi": "10.1109/sp.2017.45",
+    "source": "https://api.crossref.org/works/10.1109/sp.2017.45",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add42",
+    "title": "SCRAPE: Scalable Randomness Attested by Public Entities",
+    "authors": [
+      "Cascudo, Ignacio",
+      "David, Bernardo"
+    ],
+    "year": 2017,
+    "doi": "10.1007/978-3-319-61204-1_27",
+    "source": "https://api.crossref.org/works/10.1007/978-3-319-61204-1_27",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add43",
+    "title": "RandRunner: Distributed Randomness from Trapdoor VDFs with Strong Uniqueness",
+    "authors": [
+      "Schindler, Philipp",
+      "Judmayer, Aljosha",
+      "Hittmeir, Markus",
+      "Stifter, Nicholas",
+      "Weippl, Edgar"
+    ],
+    "year": 2021,
+    "doi": "10.14722/ndss.2021.24116",
+    "source": "https://api.crossref.org/works/10.14722/ndss.2021.24116",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add44",
+    "title": "HydRand: Efficient Continuous Distributed Randomness",
+    "authors": [
+      "Schindler, Philipp",
+      "Judmayer, Aljosha",
+      "Stifter, Nicholas",
+      "Weippl, Edgar"
+    ],
+    "year": 2020,
+    "doi": "10.1109/sp40000.2020.00003",
+    "source": "https://api.crossref.org/works/10.1109/sp40000.2020.00003",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add45",
+    "title": "Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol",
+    "authors": [
+      "Kiayias, Aggelos",
+      "Russell, Alexander",
+      "David, Bernardo",
+      "Oliynykov, Roman"
+    ],
+    "year": 2017,
+    "doi": "10.1007/978-3-319-63688-7_12",
+    "source": "https://api.crossref.org/works/10.1007/978-3-319-63688-7_12",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add46",
+    "title": "Ouroboros Praos: An Adaptively-Secure, Semi-synchronous Proof-of-Stake Blockchain",
+    "authors": [
+      "David, Bernardo",
+      "Gaži, Peter",
+      "Kiayias, Aggelos",
+      "Russell, Alexander"
+    ],
+    "year": 2018,
+    "doi": "10.1007/978-3-319-78375-8_3",
+    "source": "https://api.crossref.org/works/10.1007/978-3-319-78375-8_3",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add47",
+    "title": "Ouroboros Genesis: Composable Proof-of-Stake Blockchains with Dynamic Availability",
+    "authors": [
+      "Christian Badertscher",
+      "Peter Gazi",
+      "Aggelos Kiayias",
+      "Alexander Russell",
+      "Vassilis Zikas"
+    ],
+    "year": 2018,
+    "doi": "10.1145/3243734.3243848",
+    "source": "https://api.crossref.org/works/10.1145/3243734.3243848",
+    "verification": "Manually matched to primary publisher or author/institution record; no fuzzy candidate accepted",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add48",
+    "title": "Snow White: Robustly Reconfigurable Consensus and Applications to Provably Secure Proof of Stake",
+    "authors": [
+      "Daian, Phil",
+      "Pass, Rafael",
+      "Shi, Elaine"
+    ],
+    "year": 2019,
+    "doi": "10.1007/978-3-030-32101-7_2",
+    "source": "https://api.crossref.org/works/10.1007/978-3-030-32101-7_2",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add49",
+    "title": "The Sleepy Model of Consensus",
+    "authors": [
+      "Pass, Rafael",
+      "Shi, Elaine"
+    ],
+    "year": 2017,
+    "doi": "10.1007/978-3-319-70697-9_14",
+    "source": "https://api.crossref.org/works/10.1007/978-3-319-70697-9_14",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add50",
+    "title": "The Bitcoin Backbone Protocol: Analysis and Applications",
+    "authors": [
+      "Garay, Juan",
+      "Kiayias, Aggelos",
+      "Leonardos, Nikos"
+    ],
+    "year": 2015,
+    "doi": "10.1007/978-3-662-46803-6_10",
+    "source": "https://api.crossref.org/works/10.1007/978-3-662-46803-6_10",
+    "verification": "Exact DOI resolved; title/author/version checked against primary source",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add51",
+    "title": "Bitcoin-NG: A Scalable Blockchain Protocol",
+    "authors": [
+      "Ittay Eyal",
+      "Adem Efe Gencer",
+      "Emin Gun Sirer",
+      "Robbert Van Renesse"
+    ],
+    "year": 2016,
+    "doi": null,
+    "source": "https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/eyal",
+    "verification": "Manually matched to primary publisher or author/institution record; no fuzzy candidate accepted",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add52",
+    "title": "The Honey Badger of BFT Protocols",
+    "authors": [
+      "Miller, Andrew",
+      "Xia, Yu",
+      "Croman, Kyle",
+      "Shi, Elaine",
+      "Song, Dawn"
+    ],
+    "year": 2016,
+    "doi": "10.1145/2976749.2978399",
+    "source": "https://api.crossref.org/works/10.1145/2976749.2978399",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add53",
+    "title": "Dumbo: Faster Asynchronous BFT Protocols",
+    "authors": [
+      "Guo, Bingyong",
+      "Lu, Zhenliang",
+      "Tang, Qiang",
+      "Xu, Jing",
+      "Zhang, Zhenfeng"
+    ],
+    "year": 2020,
+    "doi": "10.1145/3372297.3417262",
+    "source": "https://api.crossref.org/works/10.1145/3372297.3417262",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add54",
+    "title": "Narwhal and Tusk: a DAG-based mempool and efficient BFT consensus",
+    "authors": [
+      "Danezis, George",
+      "Kokoris-Kogias, Lefteris",
+      "Sonnino, Alberto",
+      "Spiegelman, Alexander"
+    ],
+    "year": 2022,
+    "doi": "10.1145/3492321.3519594",
+    "source": "https://api.crossref.org/works/10.1145/3492321.3519594",
+    "verification": "Exact DOI resolved; title/author/version checked against primary source",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add55",
+    "title": "Bullshark: DAG BFT Protocols Made Practical",
+    "authors": [
+      "Spiegelman, Alexander",
+      "Giridharan, Neil",
+      "Sonnino, Alberto",
+      "Kokoris-Kogias, Lefteris"
+    ],
+    "year": 2022,
+    "doi": "10.1145/3548606.3559361",
+    "source": "https://api.crossref.org/works/10.1145/3548606.3559361",
+    "verification": "Exact DOI resolved; title/author/version checked against primary source",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add56",
+    "title": "RapidChain: Scaling Blockchain via Full Sharding",
+    "authors": [
+      "Zamani, Mahdi",
+      "Movahedi, Mahnush",
+      "Raykova, Mariana"
+    ],
+    "year": 2018,
+    "doi": "10.1145/3243734.3243853",
+    "source": "https://api.crossref.org/works/10.1145/3243734.3243853",
+    "verification": "Exact DOI resolved; title/author/version checked against primary source",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add57",
+    "title": "A Secure Sharding Protocol For Open Blockchains",
+    "authors": [
+      "Luu, Loi",
+      "Narayanan, Viswesh",
+      "Zheng, Chaodong",
+      "Baweja, Kunal",
+      "Gilbert, Seth",
+      "Saxena, Prateek"
+    ],
+    "year": 2016,
+    "doi": "10.1145/2976749.2978389",
+    "source": "https://api.crossref.org/works/10.1145/2976749.2978389",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add58",
+    "title": "Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing",
+    "authors": [
+      "Eleftherios Kokoris Kogias",
+      "Philipp Jovanovic",
+      "Nicolas Gailly",
+      "Ismail Khoffi",
+      "Linus Gasser",
+      "Bryan Ford"
+    ],
+    "year": 2016,
+    "doi": null,
+    "source": "https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/kogias",
+    "verification": "Manually matched to primary publisher or author/institution record; no fuzzy candidate accepted",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add59",
+    "title": "Solida: A Blockchain Protocol Based on Reconfigurable Byzantine Consensus",
+    "authors": [
+      "Abraham, Ittai",
+      "Malkhi, Dahlia",
+      "Nayak, Kartik",
+      "Ren, Ling",
+      "Spiegelman, Alexander"
+    ],
+    "year": 2018,
+    "doi": "10.4230/LIPIcs.OPODIS.2017.25",
+    "source": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.OPODIS.2017.25",
+    "verification": "Primary Dagstuhl record and publisher BibTeX; replaces preprint search target Solidus with published Solida",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add60",
+    "title": "SBFT: A Scalable and Decentralized Trust Infrastructure",
+    "authors": [
+      "Golan Gueta, Guy",
+      "Abraham, Ittai",
+      "Grossman, Shelly",
+      "Malkhi, Dahlia",
+      "Pinkas, Benny",
+      "Reiter, Michael",
+      "Seredinschi, Dragos-Adrian",
+      "Tamir, Orr",
+      "Tomescu, Alin"
+    ],
+    "year": 2019,
+    "doi": "10.1109/dsn.2019.00063",
+    "source": "https://api.crossref.org/works/10.1109/dsn.2019.00063",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add61",
+    "title": "Zyzzyva: speculative byzantine fault tolerance",
+    "authors": [
+      "Kotla, Ramakrishna",
+      "Alvisi, Lorenzo",
+      "Dahlin, Mike",
+      "Clement, Allen",
+      "Wong, Edmund"
+    ],
+    "year": 2007,
+    "doi": "10.1145/1294261.1294267",
+    "source": "https://api.crossref.org/works/10.1145/1294261.1294267",
+    "verification": "Exact DOI resolved; title/author/version checked against primary source",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add62",
+    "title": "Correctness and fairness of committee-based blockchains: A case study of Tendermint’s repeated consensus",
+    "authors": [
+      "Amoussou-Guenou, Yackolley",
+      "Del Pozzo, Antonella",
+      "Potop-Butucaru, Maria",
+      "Tucci-Piergiovanni, Sara"
+    ],
+    "year": 2026,
+    "doi": "10.1016/j.tcs.2026.116086",
+    "source": "https://api.crossref.org/works/10.1016/j.tcs.2026.116086",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add63",
+    "title": "Order-Fairness for Byzantine Consensus",
+    "authors": [
+      "Kelkar, Mahimna",
+      "Zhang, Fan",
+      "Goldfeder, Steven",
+      "Juels, Ari"
+    ],
+    "year": 2020,
+    "doi": "10.1007/978-3-030-56877-1_16",
+    "source": "https://api.crossref.org/works/10.1007/978-3-030-56877-1_16",
+    "verification": "Primary published title retained; initial informal search title corrected",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add64",
+    "title": "Wendy, the Good Little Fairness Widget: Achieving Order Fairness for Blockchains",
+    "authors": [
+      "Kursawe, Klaus"
+    ],
+    "year": 2020,
+    "doi": "10.1145/3419614.3423263",
+    "source": "https://api.crossref.org/works/10.1145/3419614.3423263",
+    "verification": "Primary published title retained; initial informal search title corrected",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add65",
+    "title": "Quick Order Fairness",
+    "authors": [
+      "Cachin, Christian",
+      "Mićić, Jovana",
+      "Steinhauer, Nathalie",
+      "Zanolini, Luca"
+    ],
+    "year": 2022,
+    "doi": "10.1007/978-3-031-18283-9_15",
+    "source": "https://api.crossref.org/works/10.1007/978-3-031-18283-9_15",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add66",
+    "title": "Fait Accompli Committee Selection: Improving the Size-Security Tradeoff of Stake-Based Committees",
+    "authors": [
+      "Gaži, Peter",
+      "Kiayias, Aggelos",
+      "Russell, Alexander"
+    ],
+    "year": 2023,
+    "doi": "10.1145/3576915.3623194",
+    "source": "https://api.crossref.org/works/10.1145/3576915.3623194",
+    "verification": "Publisher identity verified; C1 mojibake in Gazi surname normalized to z-caron",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add67",
+    "title": "A fair selection protocol for committee-based permissionless blockchains",
+    "authors": [
+      "Liu, Yizhong",
+      "Liu, Jianwei",
+      "Zhang, Zongyang",
+      "Yu, Hui"
+    ],
+    "year": 2020,
+    "doi": "10.1016/j.cose.2020.101718",
+    "source": "https://api.crossref.org/works/10.1016/j.cose.2020.101718",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add68",
+    "title": "Weighted random sampling with a reservoir",
+    "authors": [
+      "Efraimidis, Pavlos S.",
+      "Spirakis, Paul G."
+    ],
+    "year": 2006,
+    "doi": "10.1016/j.ipl.2005.11.003",
+    "source": "https://api.crossref.org/works/10.1016/j.ipl.2005.11.003",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add69",
+    "title": "Random sampling with a reservoir",
+    "authors": [
+      "Vitter, Jeffrey S."
+    ],
+    "year": 1985,
+    "doi": "10.1145/3147.3165",
+    "source": "https://api.crossref.org/works/10.1145/3147.3165",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add70",
+    "title": "Probable Inference, the Law of Succession, and Statistical Inference",
+    "authors": [
+      "Wilson, Edwin B."
+    ],
+    "year": 1927,
+    "doi": "10.1080/01621459.1927.10502953",
+    "source": "https://api.crossref.org/works/10.1080/01621459.1927.10502953",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add71",
+    "title": "Approximate Is Better than \"Exact\" for Interval Estimation of Binomial Proportions",
+    "authors": [
+      "Agresti, Alan",
+      "Coull, Brent A."
+    ],
+    "year": 1998,
+    "doi": "10.2307/2685469",
+    "source": "https://api.crossref.org/works/10.2307/2685469",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add72",
+    "title": "Interval Estimation for a Binomial Proportion",
+    "authors": [
+      "Brown, Lawrence D.",
+      "Cai, T. Tony",
+      "DasGupta, Anirban"
+    ],
+    "year": 2001,
+    "doi": "10.1214/ss/1009213286",
+    "source": "https://api.crossref.org/works/10.1214/ss/1009213286",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add73",
+    "title": "The Probable Error of a Mean",
+    "authors": [
+      "{Student}"
+    ],
+    "year": 1908,
+    "doi": "10.2307/2331554",
+    "source": "https://api.crossref.org/works/10.2307/2331554",
+    "verification": "Exact DOI resolved; title/author/version checked against primary source",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add74",
+    "title": "A Quantitative Measure of Fairness and Discrimination for Resource Allocation in Shared Computer Systems",
+    "authors": [
+      "Jain, Raj",
+      "Chiu, Dah-Ming",
+      "Hawe, William R."
+    ],
+    "year": 1984,
+    "doi": null,
+    "source": "https://www.cse.wustl.edu/~jain/papers/fairness.htm",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add75",
+    "title": "The Sybil Attack",
+    "authors": [
+      "Douceur, John R."
+    ],
+    "year": 2002,
+    "doi": "10.1007/3-540-45748-8_24",
+    "source": "https://api.crossref.org/works/10.1007/3-540-45748-8_24",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add76",
+    "title": "The Eigentrust algorithm for reputation management in P2P networks",
+    "authors": [
+      "Kamvar, Sepandar D.",
+      "Schlosser, Mario T.",
+      "Garcia-Molina, Hector"
+    ],
+    "year": 2003,
+    "doi": "10.1145/775152.775242",
+    "source": "https://api.crossref.org/works/10.1145/775152.775242",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add77",
+    "title": "PeerTrust: Supporting Reputation-Based Trust for Peer-to-Peer Electronic Communities",
+    "authors": [
+      "Li Xiong",
+      "Ling Liu"
+    ],
+    "year": 2004,
+    "doi": "10.1109/tkde.2004.1318566",
+    "source": "https://api.crossref.org/works/10.1109/tkde.2004.1318566",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add78",
+    "title": "PowerTrust: A Robust and Scalable Reputation System for Trusted Peer-to-Peer Computing",
+    "authors": [
+      "Zhou, Runfang",
+      "Hwang, Kai"
+    ],
+    "year": 2007,
+    "doi": "10.1109/tpds.2007.1021",
+    "source": "https://api.crossref.org/works/10.1109/tpds.2007.1021",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add79",
+    "title": "Reputation systems",
+    "authors": [
+      "Resnick, Paul",
+      "Kuwabara, Ko",
+      "Zeckhauser, Richard",
+      "Friedman, Eric"
+    ],
+    "year": 2000,
+    "doi": "10.1145/355112.355122",
+    "source": "https://api.crossref.org/works/10.1145/355112.355122",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add80",
+    "title": "Review on Computational Trust and Reputation Models",
+    "authors": [
+      "Sabater, Jordi",
+      "Sierra, Carles"
+    ],
+    "year": 2005,
+    "doi": "10.1007/s10462-004-0041-5",
+    "source": "https://api.crossref.org/works/10.1007/s10462-004-0041-5",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add81",
+    "title": "A survey of trust and reputation systems for online service provision",
+    "authors": [
+      "Jøsang, Audun",
+      "Ismail, Roslan",
+      "Boyd, Colin"
+    ],
+    "year": 2007,
+    "doi": "10.1016/j.dss.2005.05.019",
+    "source": "https://api.crossref.org/works/10.1016/j.dss.2005.05.019",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add82",
+    "title": "Blockchain reputation-based consensus: A scalable and resilient mechanism for distributed mistrusting applications",
+    "authors": [
+      "Oliveira, Marcela T. de",
+      "Reis, Lúcio H.A.",
+      "Medeiros, Dianne S.V.",
+      "Carrano, Ricardo C.",
+      "Olabarriaga, Sílvia D.",
+      "Mattos, Diogo M.F."
+    ],
+    "year": 2020,
+    "doi": "10.1016/j.comnet.2020.107367",
+    "source": "https://api.crossref.org/works/10.1016/j.comnet.2020.107367",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add83",
+    "title": "Permissionless proof‐of‐reputation‐X: A hybrid reputation‐based consensus algorithm for permissionless blockchains",
+    "authors": [
+      "Bou Abdo, Jacques",
+      "El Sibai, Rayane",
+      "Demerjian, Jacques"
+    ],
+    "year": 2021,
+    "doi": "10.1002/ett.4148",
+    "source": "https://api.crossref.org/works/10.1002/ett.4148",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add84",
+    "title": "Proof of Reputation: A Reputation-based Consensus Protocol for Blockchain Based Systems",
+    "authors": [
+      "Zhuang, Qianwei",
+      "Liu, Yuan",
+      "Chen, Lisi",
+      "Ai, Zhengpeng"
+    ],
+    "year": 2019,
+    "doi": "10.1145/3343147.3343169",
+    "source": "https://api.crossref.org/works/10.1145/3343147.3343169",
+    "verification": "Exact DOI and full title including subtitle match original FPoR reference list",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add85",
+    "title": "Analysis of the main consensus protocols of blockchain",
+    "authors": [
+      "Zhang, Shijie",
+      "Lee, Jong-Hyouk"
+    ],
+    "year": 2020,
+    "doi": "10.1016/j.icte.2019.08.001",
+    "source": "https://api.crossref.org/works/10.1016/j.icte.2019.08.001",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add86",
+    "title": "PRISM 4.0: Verification of Probabilistic Real-Time Systems",
+    "authors": [
+      "Kwiatkowska, Marta",
+      "Norman, Gethin",
+      "Parker, David"
+    ],
+    "year": 2011,
+    "doi": "10.1007/978-3-642-22110-1_47",
+    "source": "https://api.crossref.org/works/10.1007/978-3-642-22110-1_47",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add87",
+    "title": "Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers",
+    "authors": [
+      "Lamport, Leslie"
+    ],
+    "year": 2002,
+    "doi": null,
+    "source": "https://lamport.azurewebsites.net/tla/book.html",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add88",
+    "title": "IronFleet: proving practical distributed systems correct",
+    "authors": [
+      "Hawblitzel, Chris",
+      "Howell, Jon",
+      "Kapritsos, Manos",
+      "Lorch, Jacob R.",
+      "Parno, Bryan",
+      "Roberts, Michael L.",
+      "Setty, Srinath",
+      "Zill, Brian"
+    ],
+    "year": 2015,
+    "doi": "10.1145/2815400.2815428",
+    "source": "https://api.crossref.org/works/10.1145/2815400.2815428",
+    "verification": "Exact DOI resolved; title/author/version checked against primary source",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  },
+  {
+    "key": "add89",
+    "title": "Verdi: a framework for implementing and formally verifying distributed systems",
+    "authors": [
+      "Wilcox, James R.",
+      "Woos, Doug",
+      "Panchekha, Pavel",
+      "Tatlock, Zachary",
+      "Wang, Xi",
+      "Ernst, Michael D.",
+      "Anderson, Thomas"
+    ],
+    "year": 2015,
+    "doi": "10.1145/2737924.2737958",
+    "source": "https://api.crossref.org/works/10.1145/2737924.2737958",
+    "verification": "Publisher-deposited bibliographic identity checked",
+    "scope": "Bibliographic identity verified; no claim of exhaustive full-text or Scopus audit"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": 61,
+  "match_score": 1,
+  "verification": "Exact DOI resolved; title/author/version checked against primary source",
+  "metadata": {
+    "title": [
+      "Zyzzyva"
+    ],
+    "subtitle": [
+      "speculative byzantine fault tolerance"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          10,
+          14
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          10,
+          14
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of twenty-first ACM SIGOPS symposium on Operating systems principles"
+    ],
+    "publisher": "ACM",
+    "DOI": "10.1145/1294261.1294267",
+    "URL": "https://doi.org/10.1145/1294261.1294267",
+    "page": "45-58",
+    "author": [
+      {
+        "family": "Kotla",
+        "given": "Ramakrishna"
+      },
+      {
+        "family": "Alvisi",
+        "given": "Lorenzo"
+      },
+      {
+        "family": "Dahlin",
+        "given": "Mike"
+      },
+      {
+        "family": "Clement",
+        "given": "Allen"
+      },
+      {
+        "family": "Wong",
+        "given": "Edmund"
+      }
+    ]
+  }
+}

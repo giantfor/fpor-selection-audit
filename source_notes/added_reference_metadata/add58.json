@@ -1,0 +1,43 @@
+{
+  "id": 58,
+  "match_score": 1,
+  "verification": "Manually matched to primary publisher or author/institution record; no fuzzy candidate accepted",
+  "metadata": {
+    "title": [
+      "Enhancing Bitcoin Security and Performance with Strong Consistency via Collective Signing"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": [
+      "25th USENIX Security Symposium"
+    ],
+    "URL": "https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/kogias",
+    "page": "279-296",
+    "author": [
+      {
+        "name": "Eleftherios Kokoris Kogias"
+      },
+      {
+        "name": "Philipp Jovanovic"
+      },
+      {
+        "name": "Nicolas Gailly"
+      },
+      {
+        "name": "Ismail Khoffi"
+      },
+      {
+        "name": "Linus Gasser"
+      },
+      {
+        "name": "Bryan Ford"
+      }
+    ]
+  }
+}

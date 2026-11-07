@@ -1,0 +1,62 @@
+{
+  "id": 57,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "A Secure Sharding Protocol For Open Blockchains"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          24
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          24
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security"
+    ],
+    "publisher": "ACM",
+    "DOI": "10.1145/2976749.2978389",
+    "URL": "https://doi.org/10.1145/2976749.2978389",
+    "page": "17-30",
+    "author": [
+      {
+        "family": "Luu",
+        "given": "Loi"
+      },
+      {
+        "family": "Narayanan",
+        "given": "Viswesh"
+      },
+      {
+        "family": "Zheng",
+        "given": "Chaodong"
+      },
+      {
+        "family": "Baweja",
+        "given": "Kunal"
+      },
+      {
+        "family": "Gilbert",
+        "given": "Seth"
+      },
+      {
+        "family": "Saxena",
+        "given": "Prateek"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 49,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "The Sleepy Model of Consensus"
+    ],
+    "type": "book-chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "Advances in Cryptology – ASIACRYPT 2017"
+    ],
+    "publisher": "Springer International Publishing",
+    "DOI": "10.1007/978-3-319-70697-9_14",
+    "URL": "https://doi.org/10.1007/978-3-319-70697-9_14",
+    "page": "380-409",
+    "author": [
+      {
+        "family": "Pass",
+        "given": "Rafael"
+      },
+      {
+        "family": "Shi",
+        "given": "Elaine"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 85,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Analysis of the main consensus protocols of blockchain"
+    ],
+    "subtitle": [],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          6
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          6
+        ]
+      ]
+    },
+    "container-title": [
+      "ICT Express"
+    ],
+    "publisher": "Elsevier BV",
+    "DOI": "10.1016/j.icte.2019.08.001",
+    "URL": "https://doi.org/10.1016/j.icte.2019.08.001",
+    "page": "93-97",
+    "volume": "6",
+    "issue": "2",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Shijie"
+      },
+      {
+        "family": "Lee",
+        "given": "Jong-Hyouk"
+      }
+    ]
+  }
+}

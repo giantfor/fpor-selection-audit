@@ -1,0 +1,46 @@
+{
+  "id": 71,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Approximate Is Better than \"Exact\" for Interval Estimation of Binomial Proportions"
+    ],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          5
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1998,
+          5
+        ]
+      ]
+    },
+    "container-title": [
+      "The American Statistician"
+    ],
+    "publisher": "JSTOR",
+    "DOI": "10.2307/2685469",
+    "URL": "https://doi.org/10.2307/2685469",
+    "page": "119",
+    "volume": "52",
+    "issue": "2",
+    "author": [
+      {
+        "family": "Agresti",
+        "given": "Alan"
+      },
+      {
+        "family": "Coull",
+        "given": "Brent A."
+      }
+    ]
+  }
+}

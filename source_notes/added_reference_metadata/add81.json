@@ -1,0 +1,50 @@
+{
+  "id": 81,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "A survey of trust and reputation systems for online service provision"
+    ],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          3
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          3
+        ]
+      ]
+    },
+    "container-title": [
+      "Decision Support Systems"
+    ],
+    "publisher": "Elsevier BV",
+    "DOI": "10.1016/j.dss.2005.05.019",
+    "URL": "https://doi.org/10.1016/j.dss.2005.05.019",
+    "page": "618-644",
+    "volume": "43",
+    "issue": "2",
+    "author": [
+      {
+        "family": "Jøsang",
+        "given": "Audun"
+      },
+      {
+        "family": "Ismail",
+        "given": "Roslan"
+      },
+      {
+        "family": "Boyd",
+        "given": "Colin"
+      }
+    ]
+  }
+}

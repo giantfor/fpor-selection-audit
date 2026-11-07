@@ -1,0 +1,53 @@
+{
+  "id": 67,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "A fair selection protocol for committee-based permissionless blockchains"
+    ],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "container-title": [
+      "Computers &amp; Security"
+    ],
+    "publisher": "Elsevier BV",
+    "DOI": "10.1016/j.cose.2020.101718",
+    "URL": "https://doi.org/10.1016/j.cose.2020.101718",
+    "page": "101718",
+    "volume": "91",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Yizhong"
+      },
+      {
+        "family": "Liu",
+        "given": "Jianwei"
+      },
+      {
+        "family": "Zhang",
+        "given": "Zongyang"
+      },
+      {
+        "family": "Yu",
+        "given": "Hui"
+      }
+    ]
+  }
+}

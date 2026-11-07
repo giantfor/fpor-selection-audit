@@ -1,0 +1,43 @@
+{
+  "id": 42,
+  "match_score": 0.9906542056074766,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "SCRAPE: Scalable Randomness Attested by Public Entities"
+    ],
+    "type": "book-chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "Applied Cryptography and Network Security"
+    ],
+    "publisher": "Springer International Publishing",
+    "DOI": "10.1007/978-3-319-61204-1_27",
+    "URL": "https://doi.org/10.1007/978-3-319-61204-1_27",
+    "page": "537-556",
+    "author": [
+      {
+        "family": "Cascudo",
+        "given": "Ignacio"
+      },
+      {
+        "family": "David",
+        "given": "Bernardo"
+      }
+    ]
+  }
+}

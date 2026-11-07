@@ -1,0 +1,58 @@
+{
+  "id": 53,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Dumbo: Faster Asynchronous BFT Protocols"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          30
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          30
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security"
+    ],
+    "publisher": "ACM",
+    "DOI": "10.1145/3372297.3417262",
+    "URL": "https://doi.org/10.1145/3372297.3417262",
+    "page": "803-818",
+    "author": [
+      {
+        "family": "Guo",
+        "given": "Bingyong"
+      },
+      {
+        "family": "Lu",
+        "given": "Zhenliang"
+      },
+      {
+        "family": "Tang",
+        "given": "Qiang"
+      },
+      {
+        "family": "Xu",
+        "given": "Jing"
+      },
+      {
+        "family": "Zhang",
+        "given": "Zhenfeng"
+      }
+    ]
+  }
+}

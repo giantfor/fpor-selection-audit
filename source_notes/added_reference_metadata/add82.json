@@ -1,0 +1,62 @@
+{
+  "id": 82,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Blockchain reputation-based consensus: A scalable and resilient mechanism for distributed mistrusting applications"
+    ],
+    "subtitle": [],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          10
+        ]
+      ]
+    },
+    "container-title": [
+      "Computer Networks"
+    ],
+    "publisher": "Elsevier BV",
+    "DOI": "10.1016/j.comnet.2020.107367",
+    "URL": "https://doi.org/10.1016/j.comnet.2020.107367",
+    "page": "107367",
+    "volume": "179",
+    "author": [
+      {
+        "family": "Oliveira",
+        "given": "Marcela T. de"
+      },
+      {
+        "family": "Reis",
+        "given": "Lúcio H.A."
+      },
+      {
+        "family": "Medeiros",
+        "given": "Dianne S.V."
+      },
+      {
+        "family": "Carrano",
+        "given": "Ricardo C."
+      },
+      {
+        "family": "Olabarriaga",
+        "given": "Sílvia D."
+      },
+      {
+        "family": "Mattos",
+        "given": "Diogo M.F."
+      }
+    ]
+  }
+}

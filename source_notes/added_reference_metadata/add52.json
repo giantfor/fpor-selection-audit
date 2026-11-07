@@ -1,0 +1,58 @@
+{
+  "id": 52,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "The Honey Badger of BFT Protocols"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          24
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          24
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security"
+    ],
+    "publisher": "ACM",
+    "DOI": "10.1145/2976749.2978399",
+    "URL": "https://doi.org/10.1145/2976749.2978399",
+    "page": "31-42",
+    "author": [
+      {
+        "family": "Miller",
+        "given": "Andrew"
+      },
+      {
+        "family": "Xia",
+        "given": "Yu"
+      },
+      {
+        "family": "Croman",
+        "given": "Kyle"
+      },
+      {
+        "family": "Shi",
+        "given": "Elaine"
+      },
+      {
+        "family": "Song",
+        "given": "Dawn"
+      }
+    ]
+  }
+}

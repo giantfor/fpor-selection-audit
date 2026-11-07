@@ -1,0 +1,34 @@
+{
+  "id": 74,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "A Quantitative Measure of Fairness and Discrimination for Resource Allocation in Shared Computer Systems"
+    ],
+    "type": "report",
+    "issued": {
+      "date-parts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "publisher": "Digital Equipment Corporation",
+    "URL": "https://www.cse.wustl.edu/~jain/papers/fairness.htm",
+    "author": [
+      {
+        "family": "Jain",
+        "given": "Raj"
+      },
+      {
+        "family": "Chiu",
+        "given": "Dah-Ming"
+      },
+      {
+        "family": "Hawe",
+        "given": "William R."
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "configurations": 108,
+  "baseline": [
+    {
+      "n": 16,
+      "k": 4,
+      "ratio": 0.25,
+      "spread": 20,
+      "reward": "full",
+      "valid_first": 1134,
+      "failed_next_count": 1134,
+      "exact_failure_probability": 1.0,
+      "next_mean_L_min": 136.375,
+      "next_mean_L_max": 139.5,
+      "max_unrewarded": 120
+    },
+    {
+      "n": 32,
+      "k": 5,
+      "ratio": 0.15625,
+      "spread": 20,
+      "reward": "full",
+      "valid_first": 109648,
+      "failed_next_count": 109648,
+      "exact_failure_probability": 1.0,
+      "next_mean_L_min": 125.625,
+      "next_mean_L_max": 127.5,
+      "max_unrewarded": 120
+    },
+    {
+      "n": 64,
+      "k": 6,
+      "ratio": 0.09375,
+      "spread": 20,
+      "reward": "full",
+      "valid_first": 36584464,
+      "failed_next_count": 0,
+      "exact_failure_probability": 0.0,
+      "next_mean_L_min": 118.40625,
+      "next_mean_L_max": 119.5,
+      "max_unrewarded": 120
+    },
+    {
+      "n": 128,
+      "k": 7,
+      "ratio": 0.0546875,
+      "spread": 20,
+      "reward": "full",
+      "valid_first": 41897241024,
+      "failed_next_count": 0,
+      "exact_failure_probability": 0.0,
+      "next_mean_L_min": 113.875,
+      "next_mean_L_max": 114.5,
+      "max_unrewarded": 120
+    },
+    {
+      "n": 256,
+      "k": 8,
+      "ratio": 0.03125,
+      "spread": 20,
+      "reward": "full",
+      "valid_first": 234930658223088,
+      "failed_next_count": 0,
+      "exact_failure_probability": 0.0,
+      "next_mean_L_min": 111.109375,
+      "next_mean_L_max": 111.5,
+      "max_unrewarded": 120
+    }
+  ],
+  "checks": "exact group count versus individual enumeration passed",
+  "scope": "first transition only; later-horizon frequencies are separate empirical results"
+}

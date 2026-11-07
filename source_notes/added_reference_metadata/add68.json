@@ -1,0 +1,46 @@
+{
+  "id": 68,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Weighted random sampling with a reservoir"
+    ],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          3
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          3
+        ]
+      ]
+    },
+    "container-title": [
+      "Information Processing Letters"
+    ],
+    "publisher": "Elsevier BV",
+    "DOI": "10.1016/j.ipl.2005.11.003",
+    "URL": "https://doi.org/10.1016/j.ipl.2005.11.003",
+    "page": "181-185",
+    "volume": "97",
+    "issue": "5",
+    "author": [
+      {
+        "family": "Efraimidis",
+        "given": "Pavlos S."
+      },
+      {
+        "family": "Spirakis",
+        "given": "Paul G."
+      }
+    ]
+  }
+}

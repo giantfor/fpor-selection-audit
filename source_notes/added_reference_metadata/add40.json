@@ -1,0 +1,51 @@
+{
+  "id": 40,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Secure Distributed Key Generation for Discrete-Log Based Cryptosystems"
+    ],
+    "type": "book-chapter",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "Advances in Cryptology — EUROCRYPT ’99"
+    ],
+    "publisher": "Springer Berlin Heidelberg",
+    "DOI": "10.1007/3-540-48910-x_21",
+    "URL": "https://doi.org/10.1007/3-540-48910-x_21",
+    "page": "295-310",
+    "author": [
+      {
+        "family": "Gennaro",
+        "given": "Rosario"
+      },
+      {
+        "family": "Jarecki",
+        "given": "Stanisław"
+      },
+      {
+        "family": "Krawczyk",
+        "given": "Hugo"
+      },
+      {
+        "family": "Rabin",
+        "given": "Tal"
+      }
+    ]
+  }
+}

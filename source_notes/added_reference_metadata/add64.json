@@ -1,0 +1,45 @@
+{
+  "id": 64,
+  "match_score": 1,
+  "verification": "Primary published title retained; initial informal search title corrected",
+  "metadata": {
+    "title": [
+      "Wendy, the Good Little Fairness Widget"
+    ],
+    "subtitle": [
+      "Achieving Order Fairness for Blockchains"
+    ],
+    "type": "proceedings-article",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          21
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          21
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 2nd ACM Conference on Advances in Financial Technologies"
+    ],
+    "publisher": "ACM",
+    "DOI": "10.1145/3419614.3423263",
+    "URL": "https://doi.org/10.1145/3419614.3423263",
+    "page": "25-36",
+    "author": [
+      {
+        "family": "Kursawe",
+        "given": "Klaus"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 86,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "PRISM 4.0: Verification of Probabilistic Real-Time Systems"
+    ],
+    "type": "book-chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "Computer Aided Verification"
+    ],
+    "publisher": "Springer Berlin Heidelberg",
+    "DOI": "10.1007/978-3-642-22110-1_47",
+    "URL": "https://doi.org/10.1007/978-3-642-22110-1_47",
+    "page": "585-591",
+    "author": [
+      {
+        "family": "Kwiatkowska",
+        "given": "Marta"
+      },
+      {
+        "family": "Norman",
+        "given": "Gethin"
+      },
+      {
+        "family": "Parker",
+        "given": "David"
+      }
+    ]
+  }
+}

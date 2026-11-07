@@ -1,0 +1,34 @@
+{
+  "id": 37,
+  "match_score": 1,
+  "verification": "Manually matched to primary publisher or author/institution record; no fuzzy candidate accepted",
+  "metadata": {
+    "title": [
+      "Byzantine quorum systems"
+    ],
+    "type": "journal-article",
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "container-title": [
+      "Distributed Computing"
+    ],
+    "DOI": "10.1007/s004460050050",
+    "URL": "https://doi.org/10.1007/s004460050050",
+    "page": "203-213",
+    "volume": "11",
+    "issue": "4",
+    "author": [
+      {
+        "name": "Dahlia Malkhi"
+      },
+      {
+        "name": "Michael Reiter"
+      }
+    ]
+  }
+}

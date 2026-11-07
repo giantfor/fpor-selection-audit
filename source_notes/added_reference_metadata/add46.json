@@ -1,0 +1,51 @@
+{
+  "id": 46,
+  "match_score": 1.0,
+  "verification": "Publisher-deposited bibliographic identity checked",
+  "metadata": {
+    "title": [
+      "Ouroboros Praos: An Adaptively-Secure, Semi-synchronous Proof-of-Stake Blockchain"
+    ],
+    "type": "book-chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": [
+      "Lecture Notes in Computer Science",
+      "Advances in Cryptology – EUROCRYPT 2018"
+    ],
+    "publisher": "Springer International Publishing",
+    "DOI": "10.1007/978-3-319-78375-8_3",
+    "URL": "https://doi.org/10.1007/978-3-319-78375-8_3",
+    "page": "66-98",
+    "author": [
+      {
+        "family": "David",
+        "given": "Bernardo"
+      },
+      {
+        "family": "Gaži",
+        "given": "Peter"
+      },
+      {
+        "family": "Kiayias",
+        "given": "Aggelos"
+      },
+      {
+        "family": "Russell",
+        "given": "Alexander"
+      }
+    ]
+  }
+}
