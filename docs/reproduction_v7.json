@@ -1,0 +1,95 @@
+{
+  "commit": "2bfaa1fba0e86ac918e91ec8a25fc8e68bd90203",
+  "python": "3.11.5 (tags/v3.11.5:cce6ba9, Aug 24 2023, 14:38:34) [MSC v.1936 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "initial_manifest_files": 126,
+  "initial_manifest_mismatches": [],
+  "environment_scope": "new virtual environment and public checkout, same host; not an external independent replication",
+  "commands": [
+    {
+      "script": "run_analysis.py",
+      "exit_code": 0,
+      "seconds": 1.687
+    },
+    {
+      "script": "extended_analysis.py",
+      "exit_code": 0,
+      "seconds": 14.266
+    },
+    {
+      "script": "verify_artifacts.py",
+      "exit_code": 0,
+      "seconds": 0.39
+    },
+    {
+      "script": "probabilistic_analysis.py",
+      "exit_code": 0,
+      "seconds": 29.375
+    },
+    {
+      "script": "verify_probabilistic.py",
+      "exit_code": 0,
+      "seconds": 1.891
+    },
+    {
+      "script": "render_probabilistic_results.py",
+      "exit_code": 0,
+      "seconds": 0.844
+    },
+    {
+      "script": "mechanism_analysis.py",
+      "exit_code": 0,
+      "seconds": 0.125
+    },
+    {
+      "script": "paired_effects.py",
+      "exit_code": 0,
+      "seconds": 0.672
+    },
+    {
+      "script": "verify_paired_independent.py",
+      "exit_code": 0,
+      "seconds": 0.203
+    }
+  ],
+  "numeric_sha256_matches": {
+    "adversary_placement.csv": true,
+    "artifact_verification.json": true,
+    "dynamic_summary.csv": true,
+    "dynamic_traces.json": true,
+    "extended_static.csv": true,
+    "extended_verification.json": true,
+    "formation_grid.csv": true,
+    "mechanism_ablations.csv": true,
+    "mechanism_verification.json": true,
+    "paired_effects.csv": true,
+    "paired_effects_verification.json": true,
+    "paired_independent_verification.json": true,
+    "probabilistic_replay_verification.json": true,
+    "probabilistic_traces.json": true,
+    "probabilistic_trajectories.csv": true,
+    "probabilistic_verification.json": true,
+    "quorum_witness.json": true,
+    "selection_metrics.csv": true,
+    "sensitivity_populations.json": true,
+    "sensitivity_samples.csv": true,
+    "sensitivity_summary.csv": true,
+    "summary.json": true
+  },
+  "numeric_mismatches": [],
+  "pip_freeze": [
+    "contourpy==1.3.3",
+    "cycler==0.12.1",
+    "fonttools==4.68.0",
+    "kiwisolver==1.5.1",
+    "matplotlib==3.10.6",
+    "numpy==1.26.4",
+    "packaging==26.3",
+    "pillow==13.0.0",
+    "pyparsing==3.3.3",
+    "python-dateutil==4.0.0",
+    "scipy==1.16.2",
+    "tzdata==2026.6"
+  ],
+  "passed": true
+}

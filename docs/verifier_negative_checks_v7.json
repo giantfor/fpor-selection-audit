@@ -1,0 +1,8 @@
+{
+  "expected_rejections": {
+    "corrupt_event_count": true,
+    "missing_pair": true,
+    "corrupt_interval": true
+  },
+  "original_inputs_modified": false
+}
