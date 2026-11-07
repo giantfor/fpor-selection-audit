@@ -36,7 +36,7 @@ with (OUT/'paired_effects.csv').open('w',newline='') as f:
 table=[r'\begin{tabular}{llrr}',r'\toprule',r'Scores & Fraction & $\Delta P_B$ & 95\% CI \\',r'\midrule']
 for r in output:
     if r['n']=='128' and r['k']=='16':
-        table.append(f"{r['distribution'].capitalize()} & {float(r['fraction_requested']):.2f} & {r['mean_difference']:.3f} & [{r['ci_low']:.3f}, {r['ci_high']:.3f}] \\")
+        table.append(f"{r['distribution'].capitalize()} & {float(r['fraction_requested']):.2f} & {r['mean_difference']:.5f} & [{r['ci_low']:.5f}, {r['ci_high']:.5f}] \\")
         table[-1] += '\\'
 table += [r'\bottomrule',r'\end{tabular}']
 (OUT/'paired_effects_table.tex').write_text('\n'.join(table)+'\n')

@@ -1,4 +1,4 @@
-# FPoR selection audit — Version 5 research artifact
+# FPoR selection audit — Version 7 research artifact
 
 Authors: Djarot Hindarto (Universitas Nasional), Eko Mulyanto Yuniarno (Institut Teknologi Sepuluh Nopember), Sari Ningsih (Universitas Nasional).
 
@@ -77,3 +77,11 @@ The manuscript retains 56 directly relevant references; the full 89-entry catalo
 For a clean run, clone with `git -c core.autocrlf=false clone ...`, check out the exact commit printed in the manuscript, create a fresh Python 3.11 virtual environment without system packages, install `code/requirements-lock.txt`, and run `python code/reproduce_release.py ../reproduction_report`. The harness validates the release manifest before execution and compares SHA-256 for every released CSV/JSON numeric artifact after regeneration; generated PDF bytes are excluded because creation timestamps can vary. On Windows, LF checkout is necessary for byte-identical source manifest checks. `.gitattributes` disables Git newline conversion for release files, preserving the released bytes on every checkout.
 
 A clean virtual environment isolates Python dependencies, not the operating system. This is an author-side automated reproduction on the same host, not an independent external audit. The historical Version 3 commit was reproduced separately and is not the commit supporting the 40-population results.
+
+## Version 7: response to the separate-scenario and statistical review
+
+The graphical abstract separates the equal-initialization obstruction from the two-level Byzantine-exposure example. No arrow connects the experiments. The table displays five decimals to reveal a negative lower interval endpoint, not to imply increased statistical precision.
+
+Run `python code/verify_paired_independent.py` for a standard-library reimplementation of all 81 paired estimates from integer event counts, including the nine printed Table 7 rows. It uses rational means/variances and a numerically integrated Student critical value. The main reproduction harness also runs it. This same-assistant check is **not external independent reproduction** and does not regenerate committees independently. See `docs/EXTERNAL_REPRODUCTION.md`; the external operator record remains `not_performed`.
+
+No new simulated populations were added. The 40-population experiments are unchanged. At n=128,k=16, evolved scores and requested adversarial fraction .10, the approximate pointwise interval includes zero before rounding. No universally positive, multiplicity-adjusted or operational attack-success conclusion is made.

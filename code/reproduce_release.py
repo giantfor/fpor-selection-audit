@@ -15,7 +15,7 @@ report={'commit':subprocess.check_output(['git','rev-parse','HEAD'],cwd=root,tex
 if report['initial_manifest_mismatches']:
  (report_dir/'report.json').write_text(json.dumps(report,indent=2));raise SystemExit('Initial checksum mismatch')
 before={p.name:sha(p) for p in (root/'results').iterdir() if p.suffix in ('.csv','.json')}
-commands=['run_analysis.py','extended_analysis.py','verify_artifacts.py','probabilistic_analysis.py','verify_probabilistic.py','render_probabilistic_results.py','mechanism_analysis.py','paired_effects.py']
+commands=['run_analysis.py','extended_analysis.py','verify_artifacts.py','probabilistic_analysis.py','verify_probabilistic.py','render_probabilistic_results.py','mechanism_analysis.py','paired_effects.py','verify_paired_independent.py']
 for name in commands:
  if not (root/'code'/name).exists(): continue
  start=time.monotonic();p=subprocess.run([sys.executable,str(root/'code'/name)],cwd=root,capture_output=True)

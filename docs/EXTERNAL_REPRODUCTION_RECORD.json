@@ -1,0 +1,18 @@
+{
+  "status": "not_performed",
+  "operator_name": null,
+  "operator_affiliation": null,
+  "relationship_to_authors": null,
+  "independent_external_operator": null,
+  "date": null,
+  "tested_commit": null,
+  "platform": null,
+  "python_version": null,
+  "commands": [],
+  "logs": [],
+  "initial_manifest_passed": null,
+  "numerical_reproduction_passed": null,
+  "table7_check_passed": null,
+  "deviations": [],
+  "conclusion": null
+}
